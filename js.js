@@ -5,4 +5,3 @@ linkAlert.addEventListener('click', () => {
     linkAlert.removeClass('checked')
 })
 
-// alert("hello")
