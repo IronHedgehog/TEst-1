@@ -1,0 +1,15 @@
+:root {
+  --button-bcg: #d3d3d3;
+  --button-text: #212121;
+}
+
+.link {
+  text-decoration: none;
+  color: var(--title-text);
+  background-color: var(--button-bcg);
+  padding: 7px;
+  border-radius: 7px;
+}
+.checkbox {
+  margin-left: 20px;
+}
